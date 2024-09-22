@@ -1,25 +1,25 @@
 Compiling shader "Shader Graphs/New Shader Graph" pass "Universal Forward" (vp)
     Full variant space:         221184
     After settings filtering:   3072
-    After built-in stripping:   6
-    After scriptable stripping: 2
-    Processed in 0.00 seconds
-    starting compilation...
-    finished in 0.09 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.09s CPU time), skipped 0 variants
-    Prepared data for serialisation in 0.00s
-Compiling shader "Shader Graphs/New Shader Graph" pass "Universal Forward" (fp)
-    Full variant space:         1132462080
-    After settings filtering:   12288
     After built-in stripping:   24
     After scriptable stripping: 8
     Processed in 0.00 seconds
     starting compilation...
-    finished in 6.27 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 7 variants (39.27s CPU time), skipped 0 variants
+    finished in 0.15 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 8 variants (1.16s CPU time), skipped 0 variants
+    Prepared data for serialisation in 0.00s
+Compiling shader "Shader Graphs/New Shader Graph" pass "Universal Forward" (fp)
+    Full variant space:         1132462080
+    After settings filtering:   12288
+    After built-in stripping:   96
+    After scriptable stripping: 32
+    Processed in 0.00 seconds
+    starting compilation...
+    finished in 24.38 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 32 variants (218.42s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "GBuffer" (vp)
     Full variant space:         24576
     After settings filtering:   2048
-    After built-in stripping:   4
+    After built-in stripping:   16
     After scriptable stripping: 0
     Processed in 0.00 seconds
     Prepared data for serialisation in 0.00s
@@ -30,7 +30,7 @@ Compiling shader "Shader Graphs/New Shader Graph" pass "ShadowCaster" (vp)
     After scriptable stripping: 2
     Processed in 0.00 seconds
     starting compilation...
-    finished in 0.06 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.06s CPU time), skipped 0 variants
+    finished in 0.06 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 2 variants (0.13s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "ShadowCaster" (fp)
     Full variant space:         4
@@ -39,7 +39,7 @@ Compiling shader "Shader Graphs/New Shader Graph" pass "ShadowCaster" (fp)
     After scriptable stripping: 1
     Processed in 0.00 seconds
     starting compilation...
-    finished in 0.00 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 0 variants (0.00s CPU time), skipped 0 variants
+    finished in 0.05 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.05s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "MotionVectors" (vp)
     Full variant space:         4
@@ -48,7 +48,7 @@ Compiling shader "Shader Graphs/New Shader Graph" pass "MotionVectors" (vp)
     After scriptable stripping: 1
     Processed in 0.00 seconds
     starting compilation...
-    finished in 0.07 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.06s CPU time), skipped 0 variants
+    finished in 0.06 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.06s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "MotionVectors" (fp)
     Full variant space:         8
@@ -66,7 +66,7 @@ Compiling shader "Shader Graphs/New Shader Graph" pass "DepthOnly" (vp)
     After scriptable stripping: 1
     Processed in 0.00 seconds
     starting compilation...
-    finished in 0.06 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.06s CPU time), skipped 0 variants
+    finished in 0.05 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.05s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "DepthOnly" (fp)
     Full variant space:         4
@@ -84,7 +84,7 @@ Compiling shader "Shader Graphs/New Shader Graph" pass "DepthNormals" (vp)
     After scriptable stripping: 1
     Processed in 0.00 seconds
     starting compilation...
-    finished in 0.00 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 0 variants (0.00s CPU time), skipped 0 variants
+    finished in 0.06 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.06s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "DepthNormals" (fp)
     Full variant space:         8
@@ -93,7 +93,7 @@ Compiling shader "Shader Graphs/New Shader Graph" pass "DepthNormals" (fp)
     After scriptable stripping: 1
     Processed in 0.00 seconds
     starting compilation...
-    finished in 0.00 seconds. Local cache hits 1 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 0 variants (0.00s CPU time), skipped 0 variants
+    finished in 0.05 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.05s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "Universal 2D" (vp)
     Full variant space:         1
@@ -102,7 +102,7 @@ Compiling shader "Shader Graphs/New Shader Graph" pass "Universal 2D" (vp)
     After scriptable stripping: 1
     Processed in 0.00 seconds
     starting compilation...
-    finished in 0.06 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.06s CPU time), skipped 0 variants
+    finished in 0.05 seconds. Local cache hits 0 (0.00s CPU time), remote cache hits 0 (0.00s CPU time), compiled 1 variants (0.05s CPU time), skipped 0 variants
     Prepared data for serialisation in 0.00s
 Compiling shader "Shader Graphs/New Shader Graph" pass "Universal 2D" (fp)
     Full variant space:         1
